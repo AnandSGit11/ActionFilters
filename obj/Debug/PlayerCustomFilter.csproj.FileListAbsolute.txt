@@ -1,0 +1,2 @@
+C:\Users\AnandSugumar\source\repos\PlayerCustomFilter\obj\Debug\PlayerCustomFilter.csproj.AssemblyReference.cache
+C:\Users\AnandSugumar\source\repos\PlayerCustomFilter\obj\Debug\PlayerCustomFilter.csproj.CoreCompileInputs.cache
